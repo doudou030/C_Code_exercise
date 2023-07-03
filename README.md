@@ -7,3 +7,4 @@ C語言練習
 
 ## `prime_fac.c`
 寫出一recursive 的 function 以求出一個數的質因數分解
+輸入12會得到 12 = 2 * 2 * 3
